@@ -1,0 +1,15 @@
+# Apple specific files
+._*
+.DS_Store
+
+# Data/Output folders
+paintings/
+monet_test/
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
